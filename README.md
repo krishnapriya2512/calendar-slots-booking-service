@@ -9,4 +9,4 @@ step-2- you will receive another mail with confirmation or rejection
 the spreadsheet contain the entries
 https://docs.google.com/spreadsheets/d/1s8WZ6UtQ8lZcXELWDX-F7zcaLqMuTPGXvuWfmTTRK2Q/edit?usp=sharing
 
-the script
+
