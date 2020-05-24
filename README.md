@@ -11,3 +11,5 @@ https://docs.google.com/spreadsheets/d/1s8WZ6UtQ8lZcXELWDX-F7zcaLqMuTPGXvuWfmTTR
 
 the script used can be found in
 click the above spreadsheet link-> go to tools -> script editor
+or
+https://script.google.com/d/1-yla__sGGy8pKrnRsqDQnRGO7-RIy1UfVdCtjzVT80wRu0ZXywrZYhND/edit?mid=ACjPJvHMR42i10WCOhb_pnw3HJ-3SnBguAdoGT4xdozu4UZFTcs6xfDGvO7O6Mj-PngQOt9UPVG66oJ71moz5-Qrmqv-cX-8WmLrgnZPsd6QorDRtCgjMxb96wjbSqL92NVZZqq_1byP8ic&uiv=2
